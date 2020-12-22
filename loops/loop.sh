@@ -1,4 +1,4 @@
-for i in {1..50}
+for i in 1 2 3 4 5
 do
-    echo $i
+  echo Welcome $i times
 done

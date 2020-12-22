@@ -1,4 +1,4 @@
-for i in {1..99..2}
+for i in {1..99..2} # {start..end..increment}
 do
-    echo $i
+  echo $i
 done
