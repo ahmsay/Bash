@@ -3,7 +3,7 @@ awk '{print NR,$0}' employees.txt
 echo
 # NR displays line numbers
 # $0 represents the whole line
-echo 'Display first and last line:'
+echo 'Display first and last field:'
 awk '{print $1,$NF}' employees.txt
 echo
 # NF holds the number of fields. in this case first and last field will be displayed
