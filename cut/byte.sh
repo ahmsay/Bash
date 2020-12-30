@@ -16,3 +16,5 @@ echo
 
 echo "List after the 2nd byte:"
 cut -b 2- states.txt
+
+# cut -c is also quite similar (docs says "The same as ‘-b’ for now, but internationalization will change that.")
