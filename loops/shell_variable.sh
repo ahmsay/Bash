@@ -1,5 +1,5 @@
-numbers="1 2 3 4 5"
-for number in $numbers
+array="1 2 3 asd 5"
+for el in $array
 do
-  echo $number
+  echo $el
 done
