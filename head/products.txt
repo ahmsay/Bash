@@ -1,0 +1,4 @@
+ID	Type	Brand	Size	Price
+01	Monitor	DELL	15"	$60
+02	Mouse	A4	N/A	$04
+03	HDD	Samsung	1TB	$70
