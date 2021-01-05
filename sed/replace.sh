@@ -1,4 +1,4 @@
-sed 's/unix/linux/g' example.txt
+sed 's/Unix/Linux/g' example.txt
 # s = substitution
 # / = delimeter
 # g = globally
