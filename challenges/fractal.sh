@@ -11,7 +11,7 @@ for ((i=1;i<=num_rows;i++)) do
     done
 done
 
-read n
+n=4
 j=63
 len=16
 for ((i=1; i<=n; i++)) do
