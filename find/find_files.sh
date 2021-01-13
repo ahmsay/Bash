@@ -3,3 +3,5 @@ echo
 find ./folder_1 -name info.txt # Searches for info.txt in folder_1
 echo
 find . -iname file.txt # Case insensitive search
+echo
+find . -name "*.txt" # Searches for all txt files
